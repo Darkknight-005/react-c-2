@@ -3,7 +3,7 @@ import React from 'react'
 import LionsgatePlay from '../img/LionsgatePlay.jpeg'
 import Discovery from '../img/Discovery.jpeg'
 import Erosnow from '../img/Erosnow.jpeg'
-import hoichoi from '../img/hoichoi.jpeg'
+import Hoichoi from '../img/Hoichoi.jpeg'
 import Docubay from '../img/Docubay.jpeg'
 import ShortsTV from '../img/ShortsTV.jpeg'
 import Mubi from '../img/Mubi.jpeg'
@@ -53,7 +53,7 @@ function Home() {
         <a><img src={LionsgatePlay} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_3' /></a>
         <a><img src={Discovery} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_4' /></a>
         <a><img src={Erosnow} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_5' /></a>
-        <a><img src={hoichoi} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_6' /></a>
+        <a><img src={Hoichoi} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_6' /></a>
         <a><img src={Docubay} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_1' /></a>
         <a><img src={ShortsTV} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_2' /></a>
         <a><img src={Mubi} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_7' /></a>
