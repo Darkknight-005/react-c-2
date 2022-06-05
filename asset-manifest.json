@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-c-2/static/css/main.009950f6.css",
-    "main.js": "/react-c-2/static/js/main.117b7deb.js",
+    "main.js": "/react-c-2/static/js/main.ac30d1f0.js",
     "static/js/787.92e77a34.chunk.js": "/react-c-2/static/js/787.92e77a34.chunk.js",
     "static/media/PrimeVideo.jpeg": "/react-c-2/static/media/PrimeVideo.64787bad5f26430d5820.jpeg",
     "static/media/kids.jpeg": "/react-c-2/static/media/kids.65f6137186fba773d016.jpeg",
     "static/media/stick.jpeg": "/react-c-2/static/media/stick.9ce956be9c50840fe859.jpeg",
     "static/media/LionsgatePlay.jpeg": "/react-c-2/static/media/LionsgatePlay.9ab12dccc3c420ec8ddc.jpeg",
-    "static/media/_Discovery.jpeg": "/react-c-2/static/media/_Discovery.fc2f0cc0b8ad005cf0c9.jpeg",
+    "static/media/Discovery.jpeg": "/react-c-2/static/media/Discovery.fc2f0cc0b8ad005cf0c9.jpeg",
     "static/media/ShortsTV.jpeg": "/react-c-2/static/media/ShortsTV.1d59f0b9f7ed076b3c80.jpeg",
-    "static/media/_MANORAMAMAX.jpeg": "/react-c-2/static/media/_MANORAMAMAX.83bda603659a930e4918.jpeg",
+    "static/media/MANORAMAMAX.jpeg": "/react-c-2/static/media/MANORAMAMAX.83bda603659a930e4918.jpeg",
     "static/media/Mubi.jpeg": "/react-c-2/static/media/Mubi.4ecdc9d7166afc461374.jpeg",
-    "static/media/_Docubay.jpeg": "/react-c-2/static/media/_Docubay.c896771a0a346e492664.jpeg",
-    "static/media/_Erosnow.jpeg": "/react-c-2/static/media/_Erosnow.d8b84d07c22cf78cf07b.jpeg",
-    "static/media/hoichoi.jpeg": "/react-c-2/static/media/hoichoi.fcac82dc16414fae556d.jpeg",
+    "static/media/Docubay.jpeg": "/react-c-2/static/media/Docubay.c896771a0a346e492664.jpeg",
+    "static/media/Erosnow.jpeg": "/react-c-2/static/media/Erosnow.d8b84d07c22cf78cf07b.jpeg",
+    "static/media/Hoichoi.jpeg": "/react-c-2/static/media/Hoichoi.fcac82dc16414fae556d.jpeg",
     "static/media/Hayu.jpeg": "/react-c-2/static/media/Hayu.06358da9780c1a521934.jpeg",
     "static/media/Amazon-Originals.png": "/react-c-2/static/media/Amazon-Originals.fe5bcee9f6f54db2cf00.png",
     "static/media/Movies.png": "/react-c-2/static/media/Movies.094b50c64de19a60f91a.png",
@@ -23,11 +23,11 @@
     "static/media/amazon-prime-video-logo.svg": "/react-c-2/static/media/amazon-prime-video-logo.a6a9037c3078351c7a926d02d9db59a6.svg",
     "index.html": "/react-c-2/index.html",
     "main.009950f6.css.map": "/react-c-2/static/css/main.009950f6.css.map",
-    "main.117b7deb.js.map": "/react-c-2/static/js/main.117b7deb.js.map",
+    "main.ac30d1f0.js.map": "/react-c-2/static/js/main.ac30d1f0.js.map",
     "787.92e77a34.chunk.js.map": "/react-c-2/static/js/787.92e77a34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.009950f6.css",
-    "static/js/main.117b7deb.js"
+    "static/js/main.ac30d1f0.js"
   ]
 }
