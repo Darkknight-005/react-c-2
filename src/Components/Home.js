@@ -1,13 +1,13 @@
 import React from 'react'
 // import '../App.css'
 import LionsgatePlay from '../img/LionsgatePlay.jpeg'
-import _Discovery from '../img/_Discovery.jpeg'
-import _Erosnow from '../img/_Erosnow.jpeg'
+import Discovery from '../img/Discovery.jpeg'
+import Erosnow from '../img/Erosnow.jpeg'
 import hoichoi from '../img/hoichoi.jpeg'
-import _Docubay from '../img/_Docubay.jpeg'
+import Docubay from '../img/Docubay.jpeg'
 import ShortsTV from '../img/ShortsTV.jpeg'
 import Mubi from '../img/Mubi.jpeg'
-import _MANORAMAMAX from '../img/_MANORAMAMAX.jpeg'
+import Manoramamax from '../img/MANORAMAMAX.jpeg'
 import Hayu from '../img/Hayu.jpeg'
 
 
@@ -51,13 +51,13 @@ function Home() {
       </span>
       <span className='w-1/2 grid grid-cols-3 py-6 pr-16 pl-9'>
         <a><img src={LionsgatePlay} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_3' /></a>
-        <a><img src={_Discovery} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_4' /></a>
-        <a><img src={_Erosnow} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_5' /></a>
+        <a><img src={Discovery} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_4' /></a>
+        <a><img src={Erosnow} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_5' /></a>
         <a><img src={hoichoi} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_6' /></a>
-        <a><img src={_Docubay} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_1' /></a>
+        <a><img src={Docubay} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_1' /></a>
         <a><img src={ShortsTV} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_2' /></a>
         <a><img src={Mubi} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_7' /></a>
-        <a><img src={_MANORAMAMAX} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_8' /></a>
+        <a><img src={Manoramamax} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_8' /></a>
         <a><img src={Hayu} className='w-52 h-36 shadow-xxl rounded-[0.2rem]' id='par_9' /></a>
       </span>
 
